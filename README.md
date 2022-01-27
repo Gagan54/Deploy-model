@@ -1,1 +1,1 @@
-# Deploy Model by Heroku.
+# Deploy Model using Heroku.
